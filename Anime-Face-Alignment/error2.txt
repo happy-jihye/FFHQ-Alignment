@@ -1,0 +1,2 @@
+raw_image/ex-3.jpg
+raw_image/ex-6.jpg
