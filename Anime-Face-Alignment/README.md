@@ -1,5 +1,5 @@
 
-## FFHQ Face Image Alignment
+# FFHQ Face Image Alignment
 
 **landmark detector** : 
   1. [`1adrianb/face-alignment`](https://github.com/1adrianb/face-alignment) : `pip install face-alignment`
@@ -11,9 +11,9 @@
 
 
 
-**Results**
+## Result
 
-| original images | alignment images | alignment (no padding) | 
+| original images | Landmark | FFHQ-Alignment | 
 | --- | --- | --- |
 | <img src='raw_image/ex-1.jpg' width = '700'>  | <img src='landmark/landmark-0000.png' width = '700' > | <img src='align_image/align-0000.png' width = '700' > |
 | <img src='raw_image/ex-2.jpg' width = '700'>  | <img src='landmark/landmark-0001.png' width = '700' > | <img src='align_image/align-0001.png' width = '700' > |

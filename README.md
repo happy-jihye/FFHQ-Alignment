@@ -18,7 +18,7 @@
 ## 2. Anime Alignment
 
 
-| original images | alignment images | alignment (no padding) | 
+| original images | Landmark | FFHQ-Alignment | 
 | --- | --- | --- |
 | <img src='Anime-Face-Alignment/raw_image/ex-1.jpg' width = '700'>  | <img src='Anime-Face-Alignment/landmark/landmark-0000.png' width = '700' > | <img src='Anime-Face-Alignment/align_image/align-0000.png' width = '700' > |
 | <img src='Anime-Face-Alignment/raw_image/ex-2.jpg' width = '700'>  | <img src='Anime-Face-Alignment/landmark/landmark-0001.png' width = '700' > | <img src='Anime-Face-Alignment/align_image/align-0001.png' width = '700' > |
