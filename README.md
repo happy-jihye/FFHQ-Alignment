@@ -35,6 +35,12 @@
 
 ---
 
+## 4. Alignment in person (Using Streamlit App)
+
+<p align='center'><img src='Alignment-in-person/demo.gif' width = '900' ></p> 
+
+
+---
 
 ## Reference
 
